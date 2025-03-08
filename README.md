@@ -15,7 +15,7 @@ Therefore a big element of testing React applications is testing the user
 interface layer. In this lesson, we'll learn how to test that the elements of
 our application are displayed correctly to our users, and some best practices
 for helping ensure our applications are accessible to users who rely on
-assistive technology to interact with the web.
+assistive technology to interact with web.
 
 ## Best Practices for Testing User Interfaces
 
